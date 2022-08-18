@@ -1,12 +1,21 @@
 {
-  "name": "employees",
+  "name": "faker",
   "private": true,
   "scripts": {
     "start": "meteor run"
   },
   "dependencies": {
+    "@babel/runtime": "^7.18.9",
+    "@faker-js/faker": "^7.4.0",
+    "faker": "^6.6.6",
+    "lodash": "^4.17.21",
     "meteor-node-stubs": "~0.2.0",
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
